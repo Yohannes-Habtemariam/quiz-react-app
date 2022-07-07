@@ -1,0 +1,46 @@
+
+.quiz-container {
+  width: 60%;
+  margin: 3rem auto;
+  background-color: bisque;
+  box-shadow: 0 0 5px;
+  border-radius: 1rem;
+  padding-bottom: 2rem;
+}
+
+.title {
+  text-align: center;
+  font-size: 4rem;
+  color: blue;
+  padding: 2rem;
+}
+
+.score-section {
+  font-size: 2rem;
+  text-align: center;
+  color: blueviolet;
+}
+.question-tex {
+  font-size: 2rem;
+  background-color: aquamarine;
+  margin: 1rem 2rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.question-count {
+  font-size: 3rem;
+  text-align: center;
+  color: blueviolet;
+}
+
+.answer-section button {
+  display: block;
+  width: 80%;
+  margin: 1rem 3rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  text-align: left;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
